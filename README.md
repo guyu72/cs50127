@@ -1,2 +1,2 @@
-# cs50127
-learn cs50
+#Learn cs50
+
